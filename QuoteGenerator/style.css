@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500');
+.card{
+    border-radius: 3px;
+    position: relative;
+    margin:8% auto auto auto;
+    width: 450px;
+    padding: 40px 50px;
+    display: table;
+    background-color: #fff;
+}
+.card-quote{
+    font-size: 100px;
+    margin-right: 0.4em;
+    text-align: center;
+    width: 450px;
+    height: auto;
+    clear: both;
+    font-weight: 500;
+    font-size: 1.75em;
+  }
+
+.card-author {
+    width: 450px;
+    height: auto;
+    clear: both;
+    padding-top: 20px;
+    font-size: 1em;
+    text-align: right;
+  }
+
+  .credit {
+    width: 450px;
+    text-align: center;
+    display: block;
+    margin: 15px auto 30px auto;
+    font-size: 0.8em;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+  }
+    
